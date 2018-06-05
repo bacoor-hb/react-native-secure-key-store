@@ -1,0 +1,11 @@
+{
+  "name": "react-native-secure-key-store",
+  "version": "1.0.9",
+  "description": "React Native Library for securely storing keys to iOS and Android devices in KeyChain and KeyStore respectively.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HBTeam",
+  "license": "ISC"
+}
